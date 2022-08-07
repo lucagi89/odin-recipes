@@ -1,0 +1,38 @@
+
+body{
+    background-color: rgb(245, 204, 0);
+    color:#000000;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h1{color: #fe6a00;
+text-align: center;
+font-size: 50px;}
+
+.main{
+    width:100%;
+    border:solid;
+    padding: auto;
+}
+.shrimp{
+    padding-left: 35%;
+    padding-bottom: 20px;
+    }
+
+    a:hover{
+    color:red;
+    font-size: larger;
+    text-decoration:none;
+    
+}
+
+a{text-decoration:none;}
+
+.hi{
+    height:80px;
+    text-align: center;
+}
+
+strong{color:#ff0000;}
+
+#a{text-align: center;}
+    
